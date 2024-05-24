@@ -1,0 +1,103 @@
+XXXXXXX XXXXXXX, 31, RS
+
+Cargo: Product Manager Specialist, 01 ano
+
+PERGUNTA: Quais foram as suas experiências profissionais (em anos) antes de ser gerente de produto?
+
+ENTREVISTADO_F01: 
+	analista de testes - 4 anos
+	analista de negócios - 2 anos 
+	PO - 2 anos 
+
+PERGUNTA: Como a sua formação acadêmica contribuiu para o desempenho de suas função como gerente de produto?
+
+ENTREVISTADO_F01: Por ser formada em tecnologia, me ajuda a ter uma conversa mais clara com os desenvolvedores e instigá-los a pensar fora da caixa quanto as soluções técnicas. Além de me ajudar a compreender se a estimativa faz sentido ou se podemos discutí-la. 
+
+PERGUNTA: Como a sua experiência profissional em outros cargos te preparou para atuar como gerente de produto?
+
+ENTREVISTADO_F01: Navegar entre tecnologia e produto me auxiliou a deixar mais claro os requisitos das demandas e como garantir o sucesso do desenvolvimento (cenários de testes).  
+
+PERGUNTA: Você atualmente utiliza algum framework, guia, guidelines ou roteiro para executar o seu trabalho como gerente de produto? Se sim, qual?
+
+ENTREVISTADO_F01: De ferramentas utilizo o trello para organizar meu dia a dia, para documentar utilizo o azure e miro, ferramentas utilizadas pela empresa. 
+
+PERGUNTA: Quais são as principais vantagens desse apoio que você já percebeu?
+
+ENTREVISTADO_F01: Auxilia na organização e visualização da jornada para tentar identificar possíveis zonas cinzas, além de trazer o fluxo de negócio de maneira visual (miro), tanto pros stakeholders para validação da solução quanto para o time tech.
+
+PERGUNTA: Quais são as principais desvantagens desse apoio que você já percebeu? 
+
+ENTREVISTADO_F01: o Azure é mais burocrático que o Jira, a experiência do usuário também é pior particularmente falando. 
+
+PERGUNTA: Existe algum aspecto especifico do framework que você utiliza que precisou ser adaptado ou que você deixou de usar? De que maneira isso ocorreu?
+
+ENTREVISTADO_F01: Não.
+
+PERGUNTA: Você precisou adaptar suas práticas de gerenciamento de produtos de acordo com o tamanho da equipe? Como isso foi realizado?
+
+ENTREVISTADO_F01: Não.
+
+PERGUNTA: Quais são as atividades de gerenciamento de produtos que você considera centrais para suas responsabilidades diárias?
+
+ENTREVISTADO_F01: 
+	- Organização das prioridades do dia para atingir o roadmap/KR e ter as conversas necessárias antes do refinamento tech para garantir que a história esteja completa. 
+	- Monitoramento das demandas entregues para acompanhar os problemas ou colher métrica de sucesso.
+	- Acompanhar o andamento do time para garantir que as datas alvo sejam atingidas. 
+
+PERGUNTA: Na sua visão, quais são as principais dificuldades ou desafios enfrentados durante o processo de desenvolvimento de novos produtos?
+
+ENTREVISTADO_F01:
+	- Identificação de zonas cinzas
+	- Comunicação com outros times envolvidos 
+
+PERGUNTA: Você pode compartilhar exemplos de como as estimativas iniciais de um produto mudaram significativamente antes do lançamento? Como você e a equipe lidaram com essas mudanças?
+
+ENTREVISTADO_F01: Não me recordo no momento. 
+
+PERGUNTA: Qual é a abordagem adotada por você ou pela empresa para identificar e lidar com as causas raiz dos problemas durante o desenvolvimento de produtos?
+
+ENTREVISTADO_F01: Busco entender a causa raiz, desenhar sugestões de solução para puxar os envolvidos numa agenda e ir mais direcionado, evitando assim divagarmos mto sobre a solução e tornar a agenda improdutiva. Para definir as sugestões, envolvo as pessoas que realmente podem contribuir com a solução final de maneira efetiva. 
+
+- O problema é esse 
+- A causa raiz é essa 
+- O impacto é esse 
+- Solução 1: resolve de X modo
+- Solução 2: resolve de Y modo e assim por diante.
+
+PERGUNTA: Quais são os problemas relacionados ao gerenciamento de produtos que você identificou em sua experiência? 
+
+ENTREVISTADO_F01: O maior com certeza é entender a demanda de maneira clara e traduzir isso pro time de desenvolvimento. As pessoas esquecem que o óbvio precisa ser dito.
+
+PERGUNTA: Como esses problemas influenciam nas suas responsabilidades como gerente de produto? 
+
+ENTREVISTADO_F01: Atraso no processo de discovery e no desenvolvimento. 
+
+PERGUNTA: Na sua opinião, qual é a relação entre a Gestão de Requisitos e as responsabilidades de um gerente de produto?
+
+ENTREVISTADO_F01: Acredito que os requisitos de negócio devem fazer parte da definição da feature feita pelo PM. 
+
+PERGUNTA: Você identificou problemas específicos relacionados à Gestão de Requisitos que afetam o seu trabalho como gerente de produto? Se sim, quais?
+
+ENTREVISTADO_F01: Stakeholders não ter clareza de tudo que quer, há poucos dias peguei uma demanda de 2 cenários e apertando um pouco mais o stakeholders a mesma se quebrou em 8 cenários. O prazo aumento e assim a demanda teve que ser repriorizada. 
+
+PERGUNTA: Quais são, na sua opinião, as melhores habilidades para um gerente de produto?
+
+ENTREVISTADO_F01:
+	- Linguagem corporal: Parece que não faz sentido algum mas se tu tem esse entendimento, tu consegue saber se o stakeholder ta sabendo tudo que quer ou não, o mesmo vale pros refinamentos e dependências de outros times. 
+	- Ser objetivo e claro: Ter domínio do que estar dizendo de maneira que seja objetivo quanto ao requisito bem como deixar claro todos os detalhes e saber que está passando a mensagem certa. 
+
+PERGUNTA: Existem padrões externos ou certificações que são relevantes ou utilizados para o gerenciamento de produtos em sua empresa ou setor de atuação? Se sim, quais são?
+
+ENTREVISTADO_F01: Não sei.
+
+PERGUNTA: Como as suas responsabilidades como gerente de produto são impactadas mediante sua comunicação entre setores (vendas, comunicação, financeiro e entre outros)? 
+
+ENTREVISTADO_F01: falhas na comunicação, seja por conflito de agendas, entendimento errado do que foi dito, ou acesso a pessoa, impacta no atraso da DoR e consequentemente no DoD. 
+
+PERGUNTA: Você baseia suas práticas de gerenciamento de produtos em trabalhos científicos, minicursos ou outros? 
+
+ENTREVISTADO_F01: Experiência e troca de ideia com os outros PMs. 
+
+PERGUNTA: Você gostaria de acrescentar algum ponto ou opinião sobre suas experiências que não foram contempladas acima?
+
+ENTREVISTADO_F01: (sem resposta)

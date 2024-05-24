@@ -1,0 +1,196 @@
+PESQUISADOR: Começar aqui , boa tarde XXXXXX.
+
+ENTREVISTADO 3: Boa tarde
+
+PESQUISADOR: É prazer né, meu nome é XXXXX, como te falei tô fazendo aqui uma pesquisa no mestrado, agradeço aí tua disponibilidade e eu montei aqui algum um, algum não, tem aqui um roteiro de perguntas né, pra a gente conversar sobre o cargo de gerente de produtos, beleza?
+
+ENTREVISTADO 3: Certo, beleza. 
+
+PESQUISADOR: Eu te mandei agora um e-mail com o termo de consentimento né, que quando a gente tem essas pesquisas qualitativas a gente tem que passar pro entrevistado esse termo para ele dar uma lida, aí depois tu assina lá para mim e devolve Tá bom?
+
+ENTREVISTADO 3: Tá bem. Ok sem problema.
+
+PESQUISADOR: Pra gente começar, só algumas informações gerais aí, me conta aí um pouco da tua história, teu nome, experiência, como é que tu chegou nesse cargo certo?
+
+ENTREVISTADO 3: Então, eu sou XXXXXX XXXXXX, fiz ciência da computação na UFMA, aí durante o final da faculdade a gente abriu uma Startup aqui em casa. Uma Startup familiar, eu minha mãe e minha irmã e no caso a gente meio que criou um um um um trio onde minha mãe fazia parte da curadoria do dos livros, minha irmã fazia o design e eu ficava na parte tecnológica. Só que Ger Startup no começo aquela confusão né, todo mundo fazendo tudo e com os anos a gente foi se organizando, eu acabei pegando essa parte mais de de de gerência de produto, gestão de time, porque eu fiquei mais aberto para isso
+de de de regimento interno do que realmente ter que tá lidando com estratégia de negócio, empreendedorismo em si. E a Startup é de de de livros digitais infantis, a gente tem um aplicativo onde a gente revende pras escolas o acesso ao aplicativo, a gente também tem um um um grande parceiro comercial que ele que ele monta bibliotecas modularizada e a gente vai junto com essa biblioteca deles. E agora a gente também tá explorando o mercado de edição de livro interativo mesmo, a gente tá fazendo livro sob demanda, a gente já não faz e vê já o livro pronto, a gente vai até a as editoras e oferece esse serviço de desenvolvimento de livros.
+
+PESQUISADOR: Uhum. Ah beleza, interessante. E aí eh foi teu, é tua única experiência? Tu teve outros cargos antes?
+
+ENTREVISTADO 3: Não, eu tive, eu tive durante também acho que foi no ano de 2021, eu peguei um trabalho de freelance de de de PO Mesmo. Durante foi um ano e dois meses para a empresa Inside Tecnologia de Vitória, ela era uma empresa de de desenvolvimento de treinamentos em realidade virtual. Então dentro dessa empresa desde o momento que eu fui contratado já fui conversando com o cliente para montar cronograma, orçamento, entregas, como essas entregas, montar o treinamento, também E aí eu fiquei desde a parte da idealização até a operação onde eu ficava gerindo a equipe tanto de desenvolvedores, de design e e também entrega com clientes semanais e até a entrega final de mesmo implementar neles esse esse treinamento. acompanhamos ali durante um, dois meses e foi esse Outra experiência como PO que eu peguei
+
+PESQUISADOR: Ah beleza, então tu tua experiência toda é mais nessa nessa área de gestão em siné?
+
+ENTREVISTADO 3: Isso, isso
+
+PESQUISADOR: E tu falou que tu é formado em computação né? Tu acha que contribuiu pro para tu desempenhar as funções que tu tem hoje?
+
+ENTREVISTADO 3: Olha contribuiu sim, eu não diria que é essencial, mas acho que contribuiu muito porque assim, eh eh e como como nessa quando eu comecei a entrar mais nessa parte de de de gestão, eu comecei a perceber que é uma área multidisciplinar ou seja tinha muita gente de administração sabe, de computação e de outras áreas e principalmente para projetos, mais voltados paraa tecnologia, eh fazia muita diferença ter alguém que consegue conversar bem com os desenvolvedores do que pessoas que não conseguem, como por exemplo alguém de administração. Então por exemplo, nesse meu trabalho com na Inside eu conseguia conversar muito bem com os desenvolvedores, entender os problemas deles nessa parte tecnológica, apesar de não ser um desenvolvedor eu tinha essa capacidade e conseguia levar pro cliente, explicar 'olha não dá', em explicar em outros termos pro cliente o porque não tava conseguindo cumprir aquilo sabe? Então particularmente para mim que trabalho com mais projetos de tecnologia, ajuda muito ter esse conhecimento.
+
+PESQUISADOR: Maneiro, maneiro. Então não não te ajuda só com eh com a comunicação com o time de desenvolvimento, mas até com o cliente também né, pra te explicar. 
+
+ENTREVISTADO 3: Sim, sim. Porque assim, um grande problema e eh nessa parte de cliente é que muitas vezes o próprio cliente não sabe explicar bem o que ele quer, então tu ter tu ter essa essa malemolência mesmo de conseguir conversar com ele, pensar e começar a transformar isso em termos técnicos, já ajuda muito quando for chegar pro pros desenvolvedores sabe?
+
+PESQUISADOR: Uhum, imagino. Eh, Então como tu só teve experiência de gestão eh aquela tua experiência de PO também te preparou para atuar como como gerente de produto?
+
+ENTREVISTADO 3: Sim sim sim, com certeza, com certeza. Porque justamente e eh comparando a as duas duas experiências, eh como como eh gestor de projetos do Startup, eu não trabalho um projeto de tempo limitado, é um projeto que Totalmente tá se atualizando, cada ano vai mudando, o que que a gente quer fazer, então a gente acaba sem delimitar muitas coisas mas quando a gente vai para um contexto de um cliente a gente tem cronograma, 'não o projeto começou aqui, vai acabar daqui a um ano exatamente' acabou, morreu, então fica com prazo mais delimitados. E ajudaram justamente para começar a praticar isso em termos, em termos de a longo prazo Como por exemplo, o que antes eu não fazia, eu fazia fazia só mais uma gestão de de backlog digamos assim, ia vendo o que que a Startup estava precisando, ia colocando na fila, agora eu tento mudar, eu tento 'não, vamos fazer um projeto de pesquisa; esse projeto vai durar dois meses; vamos tentar fazer ele e tal', acabou? Vamos para outro projeto. Nada impede também de estar o backlog lá, nas outras coisas, mas é aquela de de realmente separar em projetos, com data de início e fim, que ajuda mais sabe? Tira esse tira essa sensação de estar sempre trabalhando sem ter data entre aspas para entregar as coisas Sabe?
+
+PESQUISADOR: Entendi, entendi. Tá, agora tu tem uma uma visão maior né? Do do negócio, tu não olha só eh pro prazo em si, tu tenta organizar mais de maneira mais Ampla...
+
+ENTREVISTADO 3: Sim, sim
+
+PESQUISADOR: Eh para fazer teu tuas atividades diárias, tu utiliza algum algum Framework? E algum roteiro, algum tipo de guia para te orientar? 
+
+ENTREVISTADO 3: Eu uso eu uso muito Jira. Tento mais usar metodologias ágeis, o Jira Se não me engano é o o o agora me deu um branco, mas se eu não me engano eu uso Jira com utilizando a metodologia SCRUM que é o que eu mais uso assim no no dia a dia. E assim como também o tec a gente trabalha muito com com freelance, a gente não tem uma equipe assim muito grande, constante, então é algo que eu uso mais pra me organizar, para eu repassar o trabalho para eles, do que realmente coloca a equipe toda dentro do Jira e explicando, atribuindo cada coisa a cada um sabe?
+
+PESQUISADOR: Entendi, tu consegue pelo Jira	ir organizando as tuas tarefas e acompanhando as tuas métricas, seria mais ou menos isso?
+
+ENTREVISTADO 3: Isso, isso. No Jira eu crio os projetos, boto tudo que eu vou fazer em cada projeto e Além disso ainda fica fazendo aquela gestão de backlog, coisas do Futuro para não esquecer que eu quero fazer.
+
+PESQUISADOR: Beleza. Então Eh as vantagens que tu vê de usar o Jira seriam essas? De conseguir gerenciar melhor o teu tempo, tuas atividades ou tu consegue ver mais?
+
+ENTREVISTADO 3: E o o do Jira o que mais eu acho interessante do Jira... O que no meu caso eu ainda não consegui usar muito, quer dizer eu usei na época do do do da inside não era o Jira, era o ClickUp, o que eu gostava muito, ele já entregava o os sprints eh do ano todo do projeto todo sabe? Então era mais fácil para eu ir organizando, se um se um projeto atrasava no começo, os outros meio que já iam se atualizando, os prazos dele automaticamente, então isso me ajudou muito assim, a ter essa essa cronologia a longo o prazo sabe? De Justamente 'não, tô aqui nessa na quinta semana atrasou dois dias, atrasou uma semana' eu já alterava lá e já ia atualizando todo o cronograma e vendo 'Olha, não a gente vai ter que cortar alguma coisa, porque senão lá no final vai atrasar', sabe? 
+
+PESQUISADOR: Entendi, bom que deixava bem automático né? Tivesse algum imprevisto assim já ia ajustando a escala e tu conseguia perceber logo, interessante. Esse era do não era no Jira, era no?
+
+ENTREVISTADO 3: Não, era o ClickUp.
+
+PESQUISADOR: Ah ClickUp, beleza. E as desvantagens assim que tu viu tanto no Jira, quanto nesse ClickUp? Tu consegue ver?
+
+ENTREVISTADO 3: O do ClickUp Eu acho que eu diria essa automatização também. Às vezes assim, no no começo quando eu comecei a aprender a usar o ClickUp, como eu não tinha experiência com ele, eu fazia isso de automático, essas coisas automáticas, quando eu reparava tinha coisa que tinha saído sabe? Ou então, não o prazo foi lá para baixo porque eu coloquei uma data errada. Então essas automatizações às vezes mudavam muito o cronograma e não me avisava, então pelo fato de não na época Ainda não tá com essa experiência toda com ClickUp no começo assim eu sofri bastante assim para para aprender um pouco, mas depois que aquele tipo de coisa que depois que você pega assim a manha Vai tranquilo. E do Jira, do Jira, o que que eu não gosto do Jira, o que que eu não gosto do Jira. Do Jira atualmente eu que é a mais completa assim, porque ele ele dá para gerir bem o backlog, as linhas do tempo, tem como tu tu usar mais de uma metodologia também no no mesmo projeto sabe? Isso é uma coisa muito boa, que tem pessoas que gostam de usar várias metodologias para uma mesma coisa, então Eh dá esse essa opção, Então acho que o Jira assim a de cabeça não tô lembrando nada assim.
+
+PESQUISADOR: É o que melhor Abarca tuas atividades né?
+
+ENTREVISTADO 3: Isso
+
+PESQUISADOR: Beleza. Tem algum aspecto específico eh que tu precisou adaptar? Ah tu olhou assim alguma funcionalidade do Jira que tu olhou assim, acho que isso aqui eu vou precisar mexer um pouco, alterar um pouco, para acompanhar teu dia a dia? Ou não?
+
+ENTREVISTADO 3: Hum, do Jira algo que eu precisei alterar um pouco... Deixa eu pensar,
+
+PESQUISADOR: Não só do Jira, Pode ser lá do outro também. 
+
+ENTREVISTADO 3: Do do ClickUp também né? O que que eu precisei a alterar um pouco, hum o do clicap é que se eu não me engano, Eu também não não sei dizer se foi foi lerdeza minha ou se eles já atualizaram isso, mas os sprints eram meio que datas definidas. Ele tinha que ser exatamente uma semana, ou um mês, ou eu acho que era uma semana, duas, ou um mês, então às vezes, como tinha uma peculiaridade nesse projeto do cliente é que a gente fazia entrega no meio da semana, não era no no começo nossa reunião com cliente, era no meio. Então acabava que em vez da nossa semana de Sprint ser de Segunda a Sexta, era de Quinta a Quarta, sabe? E isso no no ClickUp Foi algo que que não não não não não tava, foi que eu tive que adaptar, porque ele não só tinha isso das semanas fechadas, de começar na segunda a sexta ou um mês completo ou de duas semanas, de tipo na segunda-feira até a sexta da outra semana. E aí com essa quebra foi o que eu tive que adaptar, porque a gente preferiu deixar a entrega do cliente como o ponto final da da da Sprint e o início da próxima, porque não tinha e acabava atrapalhando muito. No meio da Sprint tinha reunião do com cliente, às vezes tinha que mudar algo na Sprint só que esse Sprint já acabava dois dias depois, sabe? Então disse 'não, vamos colocar essa essa Sprint começando terminando no dia da reunião do do cliente' porque aí as alterações a gente já faz já faz para uma nova Sprint, não ter que atualizar a que já tá andando.
+
+PESQUISADOR: Entendi, entendi. Então essa tinha esse bloqueio aí de custumização né?
+
+ENTREVISTADO 3: isso isso
+
+PESQUISADOR: Eh a gente sabe que eh tamanho da equipe varia né? Como tu teve essa Outra experiência na Inside, porque tu tá tá trabalhando agora na Startup né? Tua família...
+
+ENTREVISTADO 3: Sim 
+
+PESQUISADOR: E tu teve essa experiência na Inside, acredito eh, as equipes eram de tamanhos diferentes?
+
+ENTREVISTADO 3: Eram, eram. Atualmente aqui na TecTeca a gente tá com um desenvolvedor e a gente vai fechar achoo que o sexto design agora, então era sete. Na inside, tinha eu acho que era cinco desenvolvedores, tinha três modelador 3D e ainda tinha um design de de, não era design treinamento, equeci o nome mas era como se fosse um design especializado em desenvolver treinamentos. Então era uma equipe ali de comigo ficava 10 pessoas, então era uma equipe assim maior e mais
+multidisciplinar.
+
+PESQUISADOR: Era mais robusta lá na Inside né? E essa diferença por por tu ter tido essa essa equipe mais robusta, tu acha que influenciou? Eh na entrega das tuas das tuas responsabilidades?
+
+ENTREVISTADO 3: Sim sim. Porque assim, eh quanto mais multidisciplinar a equipe mais bem alinhado Tem que tá a equipe toda. Porque por exemplo e e o o os treinamentos eram feitos em em ambiente 3D, a gente usava o Unity, então enquanto o o o o a gente tava começando a projetar os cenários com os modeladores 3D, o os os desenvolvedores tinham que começar a fazer a mecânica, como interagia com os objetos e tudo, aí depois ia pras partes particulares, como por exemplo a gente tentava sempre fazer uma cascata, numa e eh treinamento nove por exemplo, na primeira semana o o o o modelador 3D fazia os modelos do treinamento nove, na segunda semana o desenvolvedor pegava e e e montava a primeira versão, a gente apresentava pro cliente, na terceira semana ia paraa correção do do do dos 3D, desse desse treinamento de acordo com o cliente e é na quarta semana voltava o desenvolvedor para atualizar o projeto e corrigir de acordo com o feedback do cliente. Então por ter essa essa essa Cascata e que envolvia mais pessoas, tinha que estar muito bem alinhadinho, até porque não era só um modelador e um desenvolvedor, era mais pessoas, então era três treinamentos ao mesmo tempo, tudo tendo que estar bem alinhadinho para evitar ficar a equipe parada ou 'não, o desenvolvedor já acabou, tá só tá esperando os modelos 3D', sabe? Ou então 'não, modelador 3D tá esperando o design de treinamento criar o o o roteiro da da do treinamento', sabe? Então
+realmente com uma equipe mais robusta começa a embolar muito mais as coisas, é muito mais sensível, porque se uma parte atrasa vai afetar todo mundo.
+
+PESQUISADOR: Então tem tem os dois lados né? Por ser maior tem tem pode ajudar por um lado mas também como tu falou aí, por último pode acabar complicando também né?
+
+ENTREVISTADO 3: Sim sim
+
+PESQUISADOR: E eh olhando assim para pro gerenciamento de produtos, pra gestão de produtos, quais são assim na tua opinião a as atividades que tu consideras Central no teu dia a dia?
+
+ENTREVISTADO 3: Eh principalmente planejar as coisas, mais do que e eh eh eh atualizar. Porque assim, eh se o planejamento tá errado tu vai ter que fazer, vai ter muito trabalho no meio do projeto de atualizar cronograma, atualizar planejamento sabe? E pode acabar criando uma bola de neve. Então eu acho que além de de verificar, conversar muito com a equipe, ver como é que tá andando, tá tudo indo como planejado, é realmente planejar, de de pensar 'Olha tá aqui, criei o cronograma ideal, o tempo ideal', beleza. Vai dar certo? Não sei. Se não der certo? O que que eu posso fazer? Ah posso tentar achar mais uma pessoa, posso tirar alguém de um um treinamento, colocar em outro por exemplo. Posso em vez de pedir para modelador 3D ter que desenvolver, ir atrás de comprar, sabe? Então quando planejar criou o o o o tempo ideal, cronograma ideal, pensar, deixar já pronto algumas soluções de 'Se der errado, o que que eu posso fazer para ajudar?', sabe? O que que eu posso fazer para evitar que o cronograma atrase, mesmo que aumente o o o escopo do projeto, ou não sei, envolva ter que contratar mais uma pessoa mas realmente tá preparar, pensar, planejar que se der alguma merda o que que eu posso fazer?
+
+PESQUISADOR: É, entendi, é ter aquela planejamento e ter aquela visão Ampla né? Do de começo, meio e fim do
+desenvolvimento né? Do produto em si.
+
+ENTREVISTADO 3: Sim sim 
+
+PESQUISADOR: E quanto as dificuldades e porque... Quais seriam as principais dificuldades que tu enfrenta durante o processo de desenvolver Novos Produtos por exemplo?
+
+ENTREVISTADO 3: A maior dificuldade principalmente nessa parte de gestão é as pessoas. Porque assim, como cientista da Computação, não aprendi muito a ser um, lidar com pessoas e querendo ou não tu tá gerindo pessoas, muito mais do que projeto, porque projetos são feitos de pessoas trabalhando. Então tinha vez de de de de de por exemplo, um cara um um
+desenvolvedor, simplesmente sumir e depois de dois dias ele reapareceu e falou que tinha tido um acidente, o projeto todo começou a desandar também. Por exemplo, aqui na TecTeca tinha uma época que a gente estava desenvolvendo novos livros com muitos freelances e o menino também simplesmente sumiu, do do do nada ele não respondia mais mensagens, não respondia mais mais e-mail, a gente teve tipo que ameaçar judicialmente, aí ele meio que devolveu o dinheiro do do freelancer, sabe?
+
+PESQUISADOR: Caraca...
+
+ENTREVISTADO 3: Então são essas coisas que que é difícil ter controle. Como como eu falei ainda agora, é dá para planejar mas também não dá para tu pensar que do nada a equipe toda vai sumir, porque aí não tem projeto. É então essa parte de de de das pessoas é que eu acho que acaba complicando mais.
+
+PESQUISADOR: Beleza e a gente sabe que assim como tu tá falando né, Sempre tem imprevistos. E aí, eh quando a gente pensa num produto assim, nessa área de gerenciamento, eh a gente cria as estimativas iniciais Pro lançamento daquela daquele produto né, aquela feature, daquela daquela coisa que a gente tiver desenvolvendo no momento. E aí tu consegue compartilhar algum exemplo de como essas estimativas iniciais mudaram de maneira significativa? Porque como tu falou né, Eh vai mudando, vai acontecendo imprevistos eh pessoais ou dentro do projeto mesmo, então tu consegue pensar em algum exemplo, eh de como essas estimativas iniciais do teu produto, elas mudaram?
+
+ENTREVISTADO 3: Consigo. Principalmente dentro da TecTeca. Porque assim, e eh querendo ou não a Inside, ela é uma empresa mais consolidada, mais mais fechada, mais tradicional. A TecTeca, por ser uma Startup, é é muito daquela de explorar o mercado atual e procurar oportunidades, então por exemplo, ano passado a gente tava explorando o o mercado de Fortaleza e muito com a ideia de tipo 'não, a gente vai abordar as escolas e tentar vender para as escolas a TecTeca diretamente'. Só que aí isso já nosso produto já tava pronto né, mas aí a gente explorando esse mercado O que que a gente aprendeu, as as
+escolas geralmente trabalham em redes, ele tem um sistema de ensino ou são de um de um de uma rede de escolas. Então todas as ferramentas que eles usam na escola são definidas por esse sistema de ensino. Então se tem que ter um sistema de ensino a gente não tem que atacar as escolas, a gente tem que ir para o o o sistemas de ensino ou para essas outras empresas de tecnologias que já vendem um pacote pra escola. E a gente começou a entrar em contato com com umas três parceiras de de de faziam isso, de criar um um um um um pacotão para vender para escolas. E beleza, a gente começou a trabalhar com eles e tudo, fez todo o o a parte de desenvolvimento que era necessário, porque eles usavam o single single time on, que é só de clicar e já logar. Aí beleza, a gente começou a planejar, começou a planejar, eh desenvolveu tudo e demorou um tempinho para desenvolver. Demorou uns quatro meses, aí no último mês um parceiro virou e falou 'não, a gente mudou, a gente não tá mais fazendo isso. A gente vai ser só auxílio tecnológico para as escolas, a gente não vai mais repassar, não vai mais fazer essa vitrine'. Ou seja, 4 meses de desenvolvimento jogado fora, sabe? Então tem tem é complicado assim quando muda. Só que não foi tão ruim porque, a gente aproveitou que a gente fez isso para uma e já criou uma API para fazer pras outras, então a gente demorou muito tempo, eh não foi o que a gente queria mas a gente já conseguiu adaptar e com outros começaram a dar certo e a gente foi levando. Então isso também é um tipo de coisa que não tem como planejar, sabe, de de de de literalmente a parceria ter quebrado a gente. Mas assim, poderia ter sido pior, porque pelo menos ainda Foi útil para alguma coisa, a gente também aprendeu e conseguiu muitos contatos. Apesar deles não estarem mais vendendo a gente, a gente conseguiu se vender muito para os outros parceiros também, porque principalmente falando mais assim de de empreendedorismo do que de de gestão, eh eh principalmente no ambiente escolar as as escolas são muito tipo 'ah se Fulano tá fazendo eu vou querer fazer também', então a gente chegou nesses outros parceiros falar 'olha, já tá fazendo
+negócio com parceiro um, vocês não querem fazer?' e eles se interessavam. A gente conseguiu uma rede por causa disso mas que foi um quebrou assim um pouco as pernas quebrou.
+
+PESQUISADOR: Uma problemática mas pelo menos vocês fizeram um Networking né? 
+
+ENTREVISTADO 3: Sim
+
+PESQUISADOR: Fizeram essa API aí, pô da hora. E e visando assim essas esses problemas. Qual é a abordagem que vocês utilizam para identificar quando tem algum problema durante o desenvolvimento do produto? Através de backlog? Como é que seria?
+
+ENTREVISTADO 3: A a principal e a principal métrica que a gente usa para ver se algo vai dar certo ou não é realmente tentar vender essa coisa. Porque assim, como por exemplo esse esse parceiro Que desistiu da Que desistiu de vender a gente. Foi um problema de venda deles que afetou os outros, eles achavam que se eles fizessem isso, continuassem com muito esses pacotão pacotão, ia ter muitos clientes, ia ter muitas empresas querendo ser parceira deles e vender para eles. Só que na hora o o o cliente deles só queria Três empresas principais e as outras outras menores não não não ia pra frente, então ficou muita gente quebrada disso. Então principal coisa quando tá desenvolvendo é pegar esse feedback para quem tu tá
+vendendo, seja um cliente, seja um usuário, porque querendo ou não e eh a gente não sabe de nada, quem sabe das coisas sempre vai ser a pessoa que vai usar ou a pessoa que tá comprando. Então Mesmo durante o desenvolvimento pegar sempre esse feedback, tentar manter o cliente junto, mostrando constantemente, é essencial paraa gente não chegar depois de de não sei quantos meses de desenvolvimento, chegar lá no final e não funcionar pra nada sabe? Ou o cliente não querer comprar, é realmente ter esse feedback constante.
+
+PESQUISADOR: Sim, entendi. E voltando um pouco, além que eu te perguntei agora da das problemáticas da área né, tu falou muito de gestão de pessoas, tu consegue ver alguma outra além dessa? Tu acha que é muito centrado nessa parte e daí vem outras questões?
+
+ENTREVISTADO 3: É, eu acho que é muito centrado nessa parte e isso abre leque para muitas coisas. Porque por exemplo, eu falei exemplo de pessoas que que tiveram acidentes e pararam de trabalhar. Mas também há caso de pessoas que trabalharam e não conseguiram cumprir prazos e acaba atrasando as outras, ou de questão de orçamento 'ah, imaginei que uma pessoa era era eh, o custo de ter um profissional desse era X e na hora era o dobro', sabe? Acaba comprometendo o o orçamento, então querendo ou não tudo acaba sendo pessoas mas por motivos diferentes, desde de de de atrasos a a orçamento, entregas mal feitas, sabe? É e ter essa essa essa Sapiência de de de saber liderar sem tentando motivar as pessoas, mesmo não
+não não não não não não sendo tão fácil mas tentar sempre manter a equipe engajada sabe, é realmente nesse nesse sentido.
+
+PESQUISADOR: Uhum. E essas esses problemas que tu experiencia, que tu vivencia, como é que eles influenciam nas tuas responsabilidades por exemplo? Tu tá falando aí 'ah Fulano não entregou no prazo', como é que isso impacta no teu trabalho?
+
+ENTREVISTADO 3: Impacta principalmente no no projeto, querendo ou não no final das contas sempre vai ser um impacto financeiro. Porque se é algo se eu demoro mais tempo para vender ou se era algo o cliente tá esperando, posso acabar deixando de fazer uma venda por causa disso ou não, mas no meu no meu, tentar deixar tudo mais redondo e imaginar o caos. De 'realmente tá tudo dando errado, o que que a gente vai fazer agora?', sabe? Tentar sempre pensar nisso, deixar planejado o máximo possível como por exemplo, agora o que que a gente tá fazendo, a gente tá começando a ser uma editora de livros, a gente tem um cliente grande e como antes a gente só tinha um designer que já fazia livros pra gente, já sabia bem Como como tá, como fazer, como faz os livros do jeito que a gente quer. Como tá chegando mais gente, a gente ainda tem que meio que treinar eles para começar a fazer os livros, então o o que algo pro pro primeiro designer eu já entregava 'olha Felipe, eu quero o livro desse desse jeito bem aqui, tu consegue fazer? Quanto tempo tu faz?' - Ah não, eu entendi o que tu quer eu faço em duas semanas -
+Beleza, esses que estão entrando eu eu deixo tudo escritinho, melhor detalhadamente possível, todos os arquivos já separado, vídeo de como é que eu quero o o o livro, já deixo um prazo de um mês, porque eu sei que não tem como eu querer que um cara que tá entrando agora que não sabe fazer isso faça o que o o Felipe faz em duas semanas, sabe? E e deixando e já pensei 'ó, se ele deu tudo errado, ele não conseguiu entender, o que que eu vou fazer?', chamei Felipe, o Felipe Tu já tá que com tempo, Felipe também é um designer bem disposto, Vamos fazer assim, vamos juntar todo mundo tu senta, tu literalmente abre tua tela e mostra 'Olha é assim que eu faço isso, assim que eu faço tal coisa, assim que eu exporto o livro, assim que eu monto e tudo', eu já Aproveitei já deixei esse vídeo gravado, porque se entrar mais gente eu já tenho um vídeo do Felipe explicando com e todo mundo perguntando, tirando dúvida, então se a pessoa não não não entender, se não sei acontecer algo com o próprio Felipe e ele não conseguir fazer isso com a com a pessoa, já deixei gravado já, tá tudo anotado para realmente imaginar o caos.
+
+PESQUISADOR: Entendi. Eh beleza e tu consegue dizer se existe uma relação entre a a engenharia de requisitos, a gestão de requisitos e as tuas responsabilidades como gerente de produto?
+
+ENTREVISTADO 3: Tem, tem, tem, com certeza. A por exemplo, principalmente na eh na minha experiência na na Inside eu
+senti muito isso, isso da falta, da da a importância na verdade da engenharia de requisitos do que e como isso afetou. Como por exemplo, quando eu entrei o o Apesar de eu ter ajudado no planejamento do começo não foi bem o o começo, a
+empresa, a inside já tinha fechado contrato com com o cliente deles, então eu já cheguei já tava com os requisitos definidos de por exemplo 'não, vão ser 13 treinamentos em dois Ambientes diferentes. Um ambiente portuário e um
+ambiente de Mina. E tem que fazer os treinamentos de segurança'; aí belez, a engenharia de requisitos fala com o cliente, define os requisitos de treinamento e tal, tranquilo. Só que aí durante o desenvolvimento de Treinamento, a gente viu que não era só dois ambientes, tinha um ambiente por exemplo da mina, tinha o ambiente aberto da mina, tinha o ambiente interno da mina, tinha a sala elétrica que é o terceiro ambiente, tinha eh eh eh a sala de máquinas, então não era só 'Ah o ambiente mina e portuário', o ambiente mina tinha muitos sub ambientes internos e isso foi um um problema porque assim, o cliente não não não querendo ou não não era o cliente que tinha que ter percebido isso, era o o o engenheiro de de requisitos sabe, então porque assim, tu vira para um cara que não entende tecnologia, fala 'ah não, tu tem que criar uma mina', ele 'beleza, criar uma mina é uma coisa, mas não é só criar a mina, é a mina, é a sala elétrica, é a sala de de máquinas, é dentro da máquina, é como a máquina funciona', sabe? E eles pecaram muito nisso, nesse nesse nessa nesses eh requisitos e que acabaram assim no no no meio do projeto tinha muita coisa pro modelador e tava atrasando e foi aí que por exemplo, a gente conseguiu achar um pacote já de de de máquinas de de mineração na internet, modelos prontos, a gente 'não, compra esses modelos, só Verifica se a cor deles tá igual, como é que tá na mina, tá igual? tá! Então bora' já livrou ali umas duas-três semanas de trabalho do do modelador. Comprando Esse pacote vamos correndo para para cumprir prazo sabe? Então realmente a engenharia de requisitos é algo essencial para para não ter problemas no planejamento.
+
+PESQUISADOR: Entendi, eh a próxima a próxima questão que ia te levantar era justamente as problemáticas específicas da engenharia né, mas aí já até respondeu que que seria Justamente esse mau defenimento dos cenários,por exemplo né?
+
+ENTREVISTADO 3: Sim, sim.
+
+PESQUISADOR: E além desse, tu consegue ver outros?
+
+ENTREVISTADO 3: Outro que teve... foi o do oculos. Mas esse eu embro que eu não fiquei muito a par porque era algo que foi o meu chefe que tava negociando com com o cliente os óculos. Deixa eu lembrar, era do óculos? Ah lembrei, é porque os treinamentos era em realidade virtual, então precisava daqueles óculos Quest tudo, então eles já no nos requisitos eles definiram que que que ia comprar os óculos e tudo, beleza. Só que eles Esqueceram de um pequeno detalhe, de que não é todo lugar da mina que pega internet e e o oculos precisa estar conectado com a internet para funcionar, então eu lembro que teve assim um um um na hora da entrega teve um um problema, porque aonde eles iam fazer o o treinamento a internet não tava funcionando, era ou não era boa e aí tava atrapalhando porque gravava né, 'olha, o funcionário tal fez esse treinamento' ia pro sistema deles. Então Precisava dessa conexão, só que aí eu lembro que eu acho que o que Meu chefe que resolveu isso, com com lá conversando com cliente eles acharam outro lugar, um auditório que a internet funcionava E resolveram, mas assim era algo que resolveu mas podia ter dado muito problema por exemplo. 
+
+PESQUISADOR: Ainda foi no no improviso ali de última hora né?
+
+ENTREVISTADO 3: É foi foi realmente na entrega Já.
+
+PESQUISADOR: Sim e na tua visão assim, quais seriam as habilidades que um gerente de produto tem que ter, as melhores
+habilidades para exercer as funções?
+
+Entrevisado 3: Olha, Eh principalmente organização, porque aquilo de de de de querendo ou não o planejamento todo tá nas tuas mãos, então tu entregar um planejamento desorganizado, mal explicado, não não tem como, porque vai ter problema com a pessoa que vai trabalhar. Eh ter essa essa essas habilidades sociais de de de geralmente conversar com a equipe, saber liderar a equipe tudo, inclusive é a o que eu particularmente acho que eu tenho que melhorar. Hum e eh organização, habilidades sociais e ser criativo, como eu te falei de realmente imaginar o caos para tentar ter criatividade para imaginar o pior cenário possível e e já tentar deixar algo planejado do que fazer disso.
+
+PESQUISADOR: É fazer o planejamento não pensando no que vai dar ruim, mas preparando né, é ter esse preparo, beleza.
+
+ENTREVISTADO 3: Exatamente, sempre bom ter um pouco de pessimismo
+
+PESQUISADOR: Para equilibrar né, porque nem tudo dá certo a gente sabe que nem tudo
+dá certo
+
+ENTREVISTADO 3: E muitas vezes dá errado sim 
+
+PESQUISADOR: E lá nessa tua experiência da Inside, eh a empresa ela exigia padrões externos? Tipo assim certificação, minicurso para tu atuar como como PO, como PM lá? Ou não?
+
+ENTREVISTADO 3: Não, não, não, apesar de que no no no no quando a gente já tava assim mais pro meio, pro final do projeto, eles estavam eh eh pegando aquele lá é o ISO 9001 se eu não me engano. E aí teve alguns processos que começaram a a ter que ter sido alterados, principalmente com RH, de de de compartilhamento de informação, de tudo, então mas assim para entrar não, mas eu não sei também se atualmente não será necessário, porque eles estavam implementando isso da da dessa ISO 9001, isso aí também é algo que eu não não não é muito minha praia não, entendo muito não.
+
+PESQUISADOR: Sim, eh como é que tuas, porque tu faz muito essa comunicação né, entre setores.
+
+ENTREVISTADO 3: Uhum 
+
+PESQUISADOR: Fala com time de desenvolvimento, fala com marketing, fala com design. Então essa comunicação multidisciplinar, como é que ela afeta tuas tu tuas responsabilidades? Ela te atrapalha, ela te ajuda?
+
+ENTREVISTADO 3: olha eu acho que que me ajuda pelo fato de eu gostar muito de fazer, deixar as coisas escritas sabe, por exemplo e eh eh eh meu meu WhatsApp se eu perder meu WhatsApp vai ser meu maior depressão, porque eu deixo tudo salvo ali no WhatsApp, e-mail também Eu tenho muita coisa. Mas querendo ou não o WhatsApp é o mais rápido, Principalmente quando a gente trabalha muito com freelancer, então mesmo que eu diga que tipo 'ah não, eu preciso fazer uma reunião para explicar algo melhor para fulano' eu falo 'ó ó Fulano, vamos nos reunir para falar de tal coisa' sabe? Então é é me ajuda porque eu gosto, eu deixo tudo salvo, então não não acho que seja algo que que atrapalhe é mais benéfico do que prejudicial isso isso isso. E por exemplo, na na Inside a gente usava o próprio discord mesmo como como sala e ambientes tudo, então era muito bom porque ficava logo tudo salvo, de todo mundo no discord, era algo facilitava bastante.
+
+PESQUISADOR: E pra gente finalizar aqui. Tuas práticas hoje como gerente de produto, tu baseia elas em em pesquisas por exemplo de revisão científica? Artigo científico? Ou tu vai mais para pro que a gente chama de literatura cinza, que é artigos do LinkedIn, eh artigos de blogs como por exemplo a pm3?
+
+ENTREVISTADO 3: Eh meio a meio, assim eu não não não fico só no mundo no mundo no mundo científico mas eu também não fico só no Linkedin. Porque eu acredito que o Linkedin também tem tem muita informação assim que é é mais para, é muito irrelevante, que o povo fala muito para se vangloriar mas também é o tipo de coisa que não não não dá para ignorar né? Porque querendo ou não tem tem realmente conteúdo muito bom, então fico muito meio a meio assim, leio um pouco do acadêmico, vou um pouco pro LinkedIn também, é muito importante acompanhar profissionais tu sabe que são bons, que tem essa base acadêmica então mesmo sendo no Linkedin são são mais artigos com uma base mais acadêmica.
+
+PESQUISADOR: Uhum, Entendi, beleza então. Finalizamos aqui, te agradeço de novo pelo teu tempo e eu acho que eu não no começo eu não falei o objetivo né, porque tô no mestrado aí eu tô fazendo essa pesquisa em gerenciamento né E aí eu fiz um levante da do que tem na literatura das responsabilidades, habilidades do gerente de produto e aí essa essa parte de entrevistas aqui eh a gente montou um roteiro, para eh indagar os profissionais da área né. E no final eu pegar esses dados e fazer um comparativo aí eh das experiências da indústria com o que tem na literatura para No final a gente elaborar eh algum Framework, algum tipo de guia para auxiliar nas atividades do do cargo de de de PM por exemplo, entendeu?
+
+ENTREVISTADO 3: top top, bacana, gostei.
+
+PESQUISADOR: Beleza então é isso vou tem alguma algum apontamento, comentario?
+
+ENTREVISTADO 3: acho acho que não, acho que eu falei eu falei tudo que eu veio assim na cabeça, acho que não acho, Foi completo
+
+PESQUISADOR: Vou interromper aqui.

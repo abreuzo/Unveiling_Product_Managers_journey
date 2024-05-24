@@ -1,0 +1,87 @@
+XXXXXXX XXXXXXX, 29, RJ
+
+Cargo: Product Manager (05 anos)
+
+PERGUNTA: Quais foram as suas experiências profissionais (em anos) antes de ser gerente de produto?
+
+ENTREVISTADO_F06: Estágio em gerenciamento de projetos e analista na área de operações
+
+PERGUNTA: Como a sua formação acadêmica contribuiu para o desempenho de suas funções como gerente de produto?
+
+ENTREVISTADO_F06: Eu sou engenheira de produção de formação, então de alguma forma eu estudei gerenciamento de projetos que ajuda muito na minha atual função e também estudei gerenciamento de produtos, porém mais voltado para a produção de produtos físicos (leite, minério etc). De alguma forma, me ajudou também, apesar de trabalhar com produtos digitais agora
+
+PERGUNTA: Como a sua experiência profissional em outros cargos te preparou para atuar como gerente de produto?
+
+ENTREVISTADO_F06: Estar dentro de uma companhia onde valoriza ideias e se estrutura de uma forma que o time é multidisciplinar me fez entender que eu já atuava em algumas partes como gerente de produto, o que me ajudou muito a fazer a transição para a área de produto de fato
+
+PERGUNTA: Você atualmente utiliza algum framework, guia, guidelines ou roteiro para executar o seu trabalho como gerente de produto? Se sim, qual?
+
+ENTREVISTADO_F06: Sim, utilizo scrum
+
+PERGUNTA: Quais são as principais vantagens desse apoio que você já percebeu?
+
+ENTREVISTADO_F06: É fácil estruturar um problema quando já tem um framework pra te ajudar a pensar e a resolver mais rápido.
+
+PERGUNTA: Quais são as principais desvantagens desse apoio que você já percebeu?
+
+ENTREVISTADO_F06: Às vezes pode ficar muito engessado
+
+PERGUNTA: Existe algum aspecto especifico do framework que você utiliza que precisou ser adaptado ou que você deixou de usar? De que maneira isso ocorreu?
+
+ENTREVISTADO_F06: Sim, eu já precisei trabalhar em um caminho entre scrum e kanban, pois nenhuma das metodologia me atendiam, então eu junto com o time definidos as adaptações que precisaríamos fazer pra atender nossas necessidades
+
+PERGUNTA: Você precisou adaptar suas práticas de gerenciamento de produtos de acordo com o tamanho da equipe? Como isso foi realizado?
+
+ENTREVISTADO_F06: Sim, quando o time é muito grande algumas cerimônia perdem produtividade, precisando fazer “frentes de trabalho” pra ser mais produtos, então por exemplo reuniões de negócio ou até daily s apenas com o pedaço do time interessado
+
+PERGUNTA: Quais são as atividades de gerenciamento de produtos que você considera centrais para suas responsabilidades diárias?
+
+ENTREVISTADO_F06: Priorização, análise de dados e gerenciamento de skateholders eh a maior parte do meu trabalho. Documentação e comunicação também são muito importantes
+
+PERGUNTA: Na sua visão, quais são as principais dificuldades ou desafios enfrentados durante o processo de desenvolvimento de novos produtos?
+
+ENTREVISTADO_F06: Alinhamento com todos os stakeholders, desde pares até a liderança. E a adaptação de estilo de comunicação pra cada um deles
+
+PERGUNTA: Você pode compartilhar exemplos de como as estimativas iniciais de um produto mudaram significativamente antes do lançamento? Como você e a equipe lidaram com essas mudanças?
+
+ENTREVISTADO_F06: Algum bug ou especificação não mapeada pode aumentar o tempo de entrega, ou até estimativa que fomos muito conservadores. Nesse caso, sempre conversamos durante as retrôs para entender porque não havia sido mapeado ou o que pode ter ocorrido para utilizar esse conhecimento no futuro
+
+PERGUNTA: Qual é a abordagem adotada por você ou pela empresa para identificar e lidar com as causas raiz dos problemas durante o desenvolvimento de produtos?
+
+ENTREVISTADO_F06: Análise de dados, conversar com usuários, deep dive para entender qual a raiz do problema e aí estipular hipóteses de como resolvê-las
+
+PERGUNTA: Quais são os problemas relacionados ao gerenciamento de produtos que você identificou em sua experiência?
+
+ENTREVISTADO_F06: Ele nunca está pronto, sempre vai ter alguma melhoria ou coisa deixada de lado
+
+PERGUNTA: Como esses problemas influenciam nas suas responsabilidades como gerente de produto?
+
+ENTREVISTADO_F06: Priorização é chave
+
+PERGUNTA: Na sua opinião, qual é a relação entre a Gestão de Requisitos e as responsabilidades de um gerente de produto?
+
+ENTREVISTADO_F06: O gerente de produto precisa saber os requisitos de negócio mínimos que serão aceitos ou definidos Como pronto. O time técnico eh responsável em definir como esses requisitos serão traduzidos em código ou demais atividades
+
+PERGUNTA: Você identificou problemas específicos relacionados à Gestão de Requisitos que afetam o seu trabalho como gerente de produto? Se sim, quais?
+
+ENTREVISTADO_F06: As vezes o time de engenharia tem uma visão muito perfeccionista e talvez aquele requisito que eles estão discutindo eh opcional,
+
+PERGUNTA: Quais são, na sua opinião, as melhores habilidades para um gerente de produto?
+
+ENTREVISTADO_F06: Comunicação, organização
+
+PERGUNTA: Existem padrões externos ou certificações que são relevantes ou utilizados para o gerenciamento de produtos em sua empresa ou setor de atuação? Se sim, quais são?
+
+ENTREVISTADO_F06: Não
+
+PERGUNTA: Como as suas responsabilidades como gerente de produto são impactadas mediante sua comunicação entre setores (vendas, comunicação, financeiro e entre outros)?
+
+ENTREVISTADO_F06: É importante a empresa saber o que um time de produtos está fazendo pois pode determinar lucro da empresa prioridade e os organização então é muito importante todos estarem na mesma página
+
+PERGUNTA: Você baseia suas práticas de gerenciamento de produtos em trabalhos científicos, minicursos ou outros?
+
+ENTREVISTADO_F06: Sim, existem vários cases no mercado que podem inspirar
+
+PERGUNTA: Você gostaria de acrescentar algum ponto ou opinião sobre suas experiências que não foram contempladas acima?
+
+ENTREVISTADO_F06: (sem resposta)

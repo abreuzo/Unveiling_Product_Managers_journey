@@ -1,0 +1,87 @@
+Renata, 36, SP
+
+Cargo: Product Manager, 02 anos
+
+Pesquisador: Quais foram as suas experiencias profissionais (em anos) antes de ser gerente de produto?
+
+Entrevistado F02: 2 anos como economista e 5 anos na area de Pricing
+
+Pesquisador: Como a sua formacao academica contribuiu para o desempenho de suas funcao como gerente de produto?
+
+Entrevistado F02: Minha formacao como economista me proporcionou capacidade analitica (raciocinio logico e estatistica) que ate hoje aplico em meu dia a dia como PM.
+
+Pesquisador: Como a sua experiencia profissional em outros cargos te preparou para atuar como gerente de produto?
+
+Entrevistado F02: Minhas outras experiencias profissionais me ensinaram a lidar com dados na "vida real", a lidar com pessoas, a adquirir habilidade de me comunicar bem, com diversas areas, e tambem obter conhecimento de negocios e estrategia.
+
+Pesquisador: Voce atualmente utiliza algum framework, guia, guidelines ou roteiro para executar o seu trabalho como gerente de produto? Se sim, qual?
+
+Entrevistado F02: Utilizamos alguns frameworks no dia a dia, especificamente de Discovery, como matriz CSD, double diamond, dinâmica "e-nao e, faz-nao faz" e blueprint para entendimento de jornada.
+
+Pesquisador: Quais sao as principais vantagens desse apoio que voce ja percebeu?
+
+Entrevistado F02: Nao sei se entendi a pergunta. O apoio que as frameworks proporcionaram? Os frameworks ou guias dao um otimo direcionamento, especialmente quando nao se sabe por onde comecar. e uma otima maneira de pensar em todos os cenarios e descobrir insights que nao teriamos numa entrevista comum com usuarios.
+
+Pesquisador: Quais sao as principais desvantagens desse apoio que voce ja percebeu? 
+
+Entrevistado F02: A desvantagem e que nem sempre as frameworks sao adequadas para o momento e o produto que estamos trabalhando. Devemos as vezes adaptar, ou apenas se basear no roteiro pronto para adequar a nossa realidade.
+
+Pesquisador: Existe algum aspecto especifico do framework que voce utiliza que precisou ser adaptado ou que voce deixou de usar? De que maneira isso ocorreu?
+
+Entrevistado F02: Dependendo do framework, considerei apenas a ideia geral, sem me prender a passo a passo estritamente. 
+
+Pesquisador: Voce precisou adaptar suas praticas de gerenciamento de produtos de acordo com o tamanho da equipe? Como isso foi realizado?
+
+Entrevistado F02: No meu caso, nao foi necessario, ja que os pares e os papeis de cada um sao bem definidos. Aqui nos dividimos em PM + Product Designer + Squad Leader + Tech Lead.
+
+Pesquisador: Quais sao as atividades de gerenciamento de produtos que voce considera centrais para suas responsabilidades diarias?
+
+Entrevistado F02: Atividades como: discovery continuo, validacao de features, refinamentos funcionais com o time tech, escrita de historias de usuario, gerenciamento de backlog, analise de metricas do produto e do negocio, priorizacao de iniciativas. 
+
+Pesquisador: Na sua visao, quais sao as principais dificuldades ou desafios enfrentados durante o processo de desenvolvimento de novos produtos?
+
+Entrevistado F02: O principal desafio de fazer um novo produto e encontrar a solucao mais adequada, sem perder o timing, e fazer sempre entregas incrementais para sempre colher os feedbacks do usuario.
+
+Pesquisador: Voce pode compartilhar exemplos de como as estimativas iniciais de um produto mudaram significativamente antes do lancamento? Como voce e a equipe lidaram com essas mudancas?
+
+Entrevistado F02: Acredito que posso citar exemplos de impedimentos tecnicos, que nao permitiram a subida de algumas features na interface. Com isso, a jornada inicial do usuario teve que ser repensada. Isso ocorreu porque o backend nao estava preparado para determinado componente. Outro ponto que pode ser citado e o acesso a fontes de dados, seja por dificuldades de privacidade ou custo de carregamento desses dados que seriam usados no produto final.
+
+Pesquisador: Qual e a abordagem adotada por voce ou pela empresa para identificar e lidar com as causas raiz dos problemas durante o desenvolvimento de produtos?
+
+Entrevistado F02: O time como um todo procura levantar dores e melhorar processos para resolver problemas. Os lideres sao muito envolvidos em ajudar os PMs nessas facilitacoes. 
+
+Pesquisador: Quais sao os problemas relacionados ao gerenciamento de produtos que voce identificou em sua experiencia? 
+
+Entrevistado F02: Um dos principais problemas no gerenciamento de produtos e a definicao de prioridades e iniciativas com stakeholders. Alem do controle de expectativas deles.
+
+Pesquisador:  Como esses problemas influenciam nas suas responsabilidades como gerente de produto? 
+
+Entrevistado F02: Nos afeta diretamente e temos que aprender a lidar com stakeholders, com transparencia e levando dados para provar nossos pontos.
+
+Pesquisador: Na sua opiniao, qual e a relacao entre a Gestao de Requisitos e as responsabilidades de um gerente de produto?
+
+Entrevistado F02: Na minha experiencia, acredito que gestao de requisitos seja uma pratica mais voltada a PROJETOS de softwares e mais presente no trabalho de um Tech lead. Como PM, nao usamos essa terminologia. O que se assemelha e, para cada historia/ fatia da entrega de uma feature, devemos deixar claro para a equipe tecnica quais sao os criterios de aceite daquela entrega, pensando sempre em entrega de valor pra o cliente final. 
+
+Pesquisador: Voce identificou problemas especificos relacionados a Gestao de Requisitos que afetam o seu trabalho como gerente de produto? Se sim, quais?
+
+Entrevistado F02: Nao.
+
+Pesquisador: Quais sao, na sua opiniao, as melhores habilidades para um gerente de produto?
+
+Entrevistado F02: As melhores habilidades dos gerentes de produtos sao as de comunicacao assertiva e controle de expectativas. Alem disso, o gerente de produto deve ter bom relacionamento com outras areas da empresa e tomar decisoes baseadas em dados. 
+
+Pesquisador: Existem padroes externos ou certificacoes que sao relevantes ou utilizados para o gerenciamento de produtos em sua empresa ou setor de atuacao? Se sim, quais sao?
+
+Entrevistado F02: Nao vejo que hoje exista um padrao de certificacao exigido para os gerentes de produto.
+
+Pesquisador: Como as suas responsabilidades como gerente de produto sao impactadas mediante sua comunicacao entre setores (vendas, comunicacao, financeiro e entre outros)? 
+
+Entrevistado F02: O gerente de produto precisa ter uma boa comunicacao com todos os setores, para entender as principais dores do negocio assim como a estrategia que a empresa tem para cada uma delas, para adequar suas iniciativas e priorizacao. 
+
+Pesquisador: Voce baseia suas praticas de gerenciamento de produtos em trabalhos cientificos, minicursos ou outros? 
+
+Entrevistado F02: Apenas em minicursos e cursos em geral
+
+Pesquisador: Voce gostaria de acrescentar algum ponto ou opiniao sobre suas experiencias que nao foram contempladas acima?
+
+Entrevistado F02: Nao!

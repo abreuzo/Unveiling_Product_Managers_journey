@@ -58,7 +58,7 @@ Exibindo figuras e tabelas
 
 Explorando links e referências
 
-    A pasta links_references contém links diretos para todos os recursos externos que usamos.
+    O arquivo links_refs contém links diretos para todos os recursos externos que usamos.
     Isso permite o acesso fácil a materiais de leitura adicionais e documentos de apoio.
 
 

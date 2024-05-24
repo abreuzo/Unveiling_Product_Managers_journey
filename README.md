@@ -14,7 +14,7 @@ O arquivo script_entrevistas contém o script utilizado para realizar entrevista
     
 O arquivo script_formulário contém o scirpt utilizado na aplicação do formulário online. Incluindo:
 
-    - Link de acesso
+    - Link de acesso;
     - Questionário: Caracterização do participante e lista de questões semi-estruturadas
     que abrangem os mesmos aspectos abordados nas entrevistas.
 
@@ -22,9 +22,9 @@ O arquivo script_formulário contém o scirpt utilizado na aplicação do formul
     
 A pasta Figuras e Tabelas contém todos os esquemas visuais utilizados no artigo. Incluindo:
 
-    - Fluxograma da metodologia
-    - Tabelas que resumem dados extraídos durante a pesquisa
-    - Figuras que ilustram a proposta dos roadmaps para criação da jornada do gerente de produto
+    - Fluxograma da metodologia;
+    - Tabelas que resumem dados extraídos durante a pesquisa;
+    - Figuras que ilustram a proposta dos roadmaps para criação da jornada do gerente de produto.
 
 4. LINKS E REFERÊNCIAS
 
@@ -40,6 +40,15 @@ Acessando scripts de entrevista
     coleta de dados qualitativos. Estes podem ser usados como referência para estudos semelhantes ou
     para compreender a estrutura de nossas entrevistas.
     
+Análise dos dados da pesquisa
+
+    Na pasta 'Transcrições Entrevistas', você encontrará  duas sub pastas:
+    - Entrevistas Google Meet (contém arquivos .txt com as perguntas e respostas das entrevistas);
+    - Formulário Online (contém as perguntas e respostas da aplicação via Google Forms).
+    
+    Em ambas as pastas você pode usar os conjuntos de dados para replicar nossa análise
+    ou para realizar avaliações adicionais.
+
 Exibindo figuras e tabelas
 
     As ajudas visuais usadas no artigo estão disponíveis na pasta 'Figuras e Tabelas'.
